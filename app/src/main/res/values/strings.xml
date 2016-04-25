@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Telestration Demo</string>
+    <string name="host">duvitech.dnsalias.com</string>
+    <string name="port">3000</string>
+</resources>
